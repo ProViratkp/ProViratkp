@@ -2,7 +2,7 @@
 - 👀 I’m interested in Programming.
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on HTML/CSS/JS/Python.
-- 📫 How to reach me using your brain.
+- 📫 For reaching to me you have to use your brain.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: 
 
